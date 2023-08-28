@@ -1,5 +1,5 @@
 # aed_mackenzie
-## **QUALIDADE DO AR NO CONTEXTO DE SÃO PAULO**: ANÁLISE EXPLORATÓRIA DE DADOS E CASOS DE USO
+## QUALIDADE DO AR NO CONTEXTO DE SÃO PAULO: ANÁLISE EXPLORATÓRIA DE DADOS E CASOS DE USO
 Repositório referente à disciplina de Análise Exploratória de Dados, do curso de Ciência de Dados do Mackenzie.
 ## Objetivo
 O projeto almeja realizar uma análise exploratória de dados sobre a qualidade do ar, no contexto de São Paulo, bem como avaliar casos de uso dessa análise. Para isso, foi extrataída a base de dados no datalake da OpenAQ, disponível publicamente no BigQuery (link abaixo), através de uma query (SQL). 
@@ -9,7 +9,7 @@ Link: https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=openaq&
 
 
 ## Pastas
-Iremos postar aqui os notebooks (.ipython) na pasta "notebooks" e o recorte da base em si está disponível (.csv) na pasta "bd".
+Iremos postar aqui os notebooks (.ipython) na pasta [notebooks](https://github.com/jaxrosil/aed_mackenzie/tree/main/notebooks). e o recorte da base em si está disponível (.csv) na pasta [bd](https://github.com/jaxrosil/aed_mackenzie/tree/main/bd).
 ## Alunos
 - Ana Cláudia de Lima
 - Jax Rocha da Silva
