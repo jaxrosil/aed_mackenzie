@@ -9,7 +9,7 @@ Link: https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=openaq&
 
 
 ## Pastas
-Iremos postar aqui os notebooks (.ipython) na pasta "Análises" e o recorte da base em si está disponível (.csv) na pasta "BD".
+Iremos postar aqui os notebooks (.ipython) na pasta "notebooks" e o recorte da base em si está disponível (.csv) na pasta "bd".
 ## Alunos
 - Ana Cláudia de Lima
 - Jax Rocha da Silva
