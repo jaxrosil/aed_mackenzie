@@ -1,6 +1,6 @@
 # Base de dados
 O recorte da base de dados foi extraída do data lake da OpenAQ, disponível publicamente no BigQuery, por meio da seguinte query:
-```
+```sql
 select * from bigquery-public-data.openaq.global_air_quality
 where country = "BR" 
 ```
